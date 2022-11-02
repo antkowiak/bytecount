@@ -1,7 +1,7 @@
 //
 // main.cpp - Print a frequency count of bytes in a file (or input stream)
 //
-// Written by Ryan Antkowiak (antkowiak@gmail.com)
+// Written by Ryan Antkowiak
 //
 
 #include <vector>
